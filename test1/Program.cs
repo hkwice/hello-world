@@ -9,7 +9,7 @@ namespace test1
     {
         static void Main(string[] args)
         {
-
+            Console.Write("Hello World!");
         }
     }
 }

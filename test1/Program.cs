@@ -11,6 +11,7 @@ namespace test1
         {
             Console.Write("Hello World!");
             Console.ReadKey();
+            Console.Write("Hello World!");
         }
     }
 }

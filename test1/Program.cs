@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 
 namespace test1
-{
+{  //this is my2
     class Program
     {
         
@@ -22,7 +22,7 @@ namespace test1
             //Console.Write("adfasdfadsf!");//Console.Write("adfasdfadsf!");//Console.Write("adfasdfadsf!");
             //Console.Write("aaaaa");
             Console.Write("Hello World!");
-            Console.Write("tttttt!");
+            Console.Write("sssssss!");
         }
     }
 }

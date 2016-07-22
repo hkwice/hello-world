@@ -17,10 +17,10 @@ namespace test1
 
 
 
-
+            //Console.Write("aaaaa");
 
             //Console.Write("adfasdfadsf!");//Console.Write("adfasdfadsf!");//Console.Write("adfasdfadsf!");
-            //Console.Write("ttttttttt");
+            //Console.Write("aaaaa");
             Console.Write("Hello World!");
             Console.Write("Hello World!");
         }

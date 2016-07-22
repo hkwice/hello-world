@@ -22,7 +22,7 @@ namespace test1
             //Console.Write("adfasdfadsf!");//Console.Write("adfasdfadsf!");//Console.Write("adfasdfadsf!");
             //Console.Write("aaaaa");
             Console.Write("Hello World!");
-            Console.Write("Hello World!");
+            Console.Write("tttttt!");
         }
     }
 }

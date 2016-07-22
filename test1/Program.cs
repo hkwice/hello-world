@@ -20,7 +20,7 @@ namespace test1
 
 
             //Console.Write("adfasdfadsf!");//Console.Write("adfasdfadsf!");//Console.Write("adfasdfadsf!");
-            //Console.Write("adfasdfadsf!");
+            //Console.Write("ttttttttt");
             Console.Write("Hello World!");
             Console.Write("Hello World!");
         }

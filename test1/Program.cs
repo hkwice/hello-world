@@ -13,7 +13,7 @@ namespace test1
         {
             Console.Write("Hello World!");
             Console.ReadKey();
-            Console.Write("adfasdfadsf!");
+            //Console.Write("adfasdfadsf!");
             Console.Write("Hello World!");
             Console.Write("Hello World!");
         }
